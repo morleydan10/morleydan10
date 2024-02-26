@@ -1,16 +1,19 @@
 ### Hi there 👋
+Welcome to my Github page, my name is Daniel, but you can call me Dan!
 
-<!--
-**morleydan10/morleydan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a recent graduate of the Flatiron School's software development program, looking to continue my new journey on learning the ins and outs of software development. 
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on
+* Continuing to add features to my application ArtConnect, a platform that connects local artists and local businesses
+* Brainstorming an idea for a new application that would asssit with the loading of freight trailers
+* Researching for a data science project involving precipitation in the Western United States
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning
+* New Languages: Typescript, Java
+* New Frameworks: Angular, Bootstrap
+* Courses I'm currently taking: Intro to Kubernetes, The Iterative Innovation Process
+
+### 🏀🎧✒️ Interests and Hobbies
+* Playing sports and staying active
+* Going for a run, then asking myself while running, "Why did I do this?"
+* Reading and learning about new things, most notably philosophy, essays on social commentary and animal intelligence
