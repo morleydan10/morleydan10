@@ -17,3 +17,4 @@ I am a recent graduate of the Flatiron School's software development program, lo
 * Playing sports and staying active
 * Going for a run, then asking myself while running, "Why did I do this?"
 * Reading and learning about new things, most notably philosophy, essays on social commentary and animal intelligence
+* Discovering new music
