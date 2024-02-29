@@ -4,7 +4,7 @@ Welcome to my Github page, my name is Daniel, but you can call me Dan!
 I am a recent graduate of the Flatiron School's software development program, looking to continue my new journey on learning the ins and outs of software development. 
 
 ### 🔭 I’m currently working on
-* Continuing to add features to my application ArtConnect, a platform that connects local artists and local businesses
+* Continuing to add features to my web application ArtConnect, a platform that connects local artists and local businesses
 * Brainstorming an idea for a new application that would asssit with the loading of freight trailers
 * Researching for a data science project involving precipitation in the Western United States
 
