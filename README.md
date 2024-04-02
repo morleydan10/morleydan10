@@ -11,10 +11,10 @@ I am a recent graduate of the Flatiron School's software development program, lo
 ### 🌱 I’m currently learning
 * New Languages: Typescript, Java
 * New Frameworks: Angular, Bootstrap
-* Courses I'm currently taking: Intro to Java with Codecademy, Intro to Kubernetes with edX, The Iterative Innovation Process with MITx
+* Courses I'm currently taking: Intro to Java with Codecademy, 
 
 ### 🏀🎧✒️ Interests and Hobbies
-* Playing sports and staying active
-* Going for a run, then asking myself while running, "Why did I do this?"
+* Staying active/playing sports
 * Reading and learning about new things, most notably philosophy, essays on social commentary and animal intelligence
 * Discovering new music
+* Exploring new places
