@@ -11,7 +11,7 @@ I am a recent graduate of the Flatiron School's software development program, lo
 ### 🌱 I’m currently learning
 * New Languages: Typescript, Java
 * New Frameworks: Angular, Bootstrap
-* Courses I'm currently taking: Intro to Java with Codecademy, AWS Skill Builder
+* Courses I'm currently taking: Intro to Java with Codecademy, IBM Cloud Developer Certification
 
 ### 🏀🎧✒️ Interests and Hobbies
 * Staying active/playing sports
