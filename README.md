@@ -12,9 +12,9 @@ I am a recent graduate of the Flatiron School's software development program, lo
 * Researching for a data science project involving precipitation in the Western United States
 
 ### 🌱 I’m currently learning
-* New Languages: Typescript, Java
-* New Frameworks: Angular, Bootstrap
-* Courses I'm currently taking: Intro to Java with Codecademy, IBM Cloud Developer Certification
+* New Languages: Java
+* Concepts: Data Structures & Algorithms, Polymorphic Associations, Consistency Models in Databases
+* Courses I'm currently taking: Java & C# on Exercism, Microsoft Azure Fundamentals Certification
 
 ### 🏀🎧✒️ Interests and Hobbies
 * Staying active/playing sports
