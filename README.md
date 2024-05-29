@@ -33,7 +33,7 @@ I am a recent graduate of the Flatiron School's software development program, lo
 </p>
 
 <a href="https://github.com/morleydan10/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=morleydan10" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=morleydan10&theme=dark" />
 </a>
 <a href="https://github.com/morleydan10/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=morleydan10&layout=pie&langs_count=8&card_width=320" />
