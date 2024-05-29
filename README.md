@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=194160&fontColor=42db89&text=Hey%20Everyone!%20👋&fontAlign=50&animation=fadeIn&textBg=false&reversal=false&section=header&desc=Welcome%20to%20my%20Github,%20let's%20connect!&fontSize=70&strokeWidth=0&descSize=20&descAlignY=60&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=194160&fontColor=42db89&text=Hey%20Everyone!&fontAlign=50&animation=fadeIn&textBg=false&reversal=false&section=header&desc=Welcome%20to%20my%20Github,%20let's%20connect!&fontSize=70&strokeWidth=0&descSize=20&descAlignY=60&fontAlignY=40" />
   <a href="https://www.linkedin.com/in/danieltmorley/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/>
   </a>
@@ -33,7 +33,7 @@ I am a recent graduate of the Flatiron School's software development program, lo
 </p>
 
 <a href="https://github.com/morleydan10/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=morleydan10&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=morleydan10&theme=vue-dark" />
 </a>
 <a href="https://github.com/morleydan10/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=morleydan10&layout=pie&langs_count=8&card_width=320" />
