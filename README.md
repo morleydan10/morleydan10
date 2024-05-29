@@ -32,6 +32,8 @@ I am a recent graduate of the Flatiron School's software development program, lo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="45" height="45" />
 </p>
 
+![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=morleydan10&show_icons=true&theme=radical)
+
 ### 🔭 I’m currently working on
 * Continuing to add features to my web application ArtConnect, a platform that connects local artists and local businesses
 * Brainstorming an idea for a new application that would asssit with the loading of freight trailers
