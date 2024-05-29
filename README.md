@@ -6,7 +6,6 @@
 </p>
 
 ### Hi there 👋
-Welcome to my Github page, my name is Daniel, but you can call me Dan!
 
 I am a recent graduate of the Flatiron School's software development program, looking to continue my new journey on learning the ins and outs of software development. 
 
