@@ -49,3 +49,7 @@ I am a recent graduate of the Flatiron School's software development program, lo
 * Reading and learning about new things, most notably philosophy, essays on social commentary and animal intelligence
 * Discovering new music
 * Exploring new places
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&fontAlign=50&animation=fadeIn&textBg=false&reversal=false&section=footer&fontSize=70&strokeWidth=0&descSize=20&descAlignY=50&fontAlignY=50"/>
+</p>
