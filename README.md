@@ -12,8 +12,7 @@ I am a recent graduate of the Flatiron School's software development program, lo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/>
 </a>
 <a href="mailto:morleydan10@gmail.com">
-  <img src="https://github.com/morleydan10/morleydan10/assets/146499405/5df7bdf7-f43f-464a-b2d3-187cd8ab672f"
- />
+  <img src="https://github.com/morleydan10/morleydan10/assets/146499405/5df7bdf7-f43f-464a-b2d3-187cd8ab672f" alt="gmail" width="45" height="45" />
 </a>
 
 ### 🚀 Some Tools I Have Used and Learned
