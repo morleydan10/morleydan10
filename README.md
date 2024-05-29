@@ -8,13 +8,14 @@ I am a recent graduate of the Flatiron School's software development program, lo
 
 [Click here for a quick intro!](https://www.loom.com/share/728f496d2b5949669a1cffe8bfd0d88d?sid=815b7e7d-abb2-4153-adb7-509b7c0be954)
 ### Let's Connect
-<a href="https://www.linkedin.com/in/danieltmorley/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/>
-</a>
-<br/>
-<a href="mailto:morleydan10@gmail.com">
-  <img src="https://github.com/morleydan10/morleydan10/assets/146499405/5df7bdf7-f43f-464a-b2d3-187cd8ab672f" alt="gmail" width="45" height="45" />
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/danieltmorley/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/>
+  </a>
+  <a href="mailto:morleydan10@gmail.com">
+    <img src="https://github.com/morleydan10/morleydan10/assets/146499405/5df7bdf7-f43f-464a-b2d3-187cd8ab672f" alt="gmail" width="45" height="45" />
+  </a>
+</p>
 
 ### 🚀 Some Tools I Have Used and Learned
 <p align="left">
