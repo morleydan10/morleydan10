@@ -51,5 +51,5 @@ I am a recent graduate of the Flatiron School's software development program, lo
 * Exploring new places
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=194160&text=Thanks%20for%20visiting!&fontAlign=50&animation=fadeIn&textBg=false&reversal=false&section=footer&fontSize=40&strokeWidth=0&descSize=20&descAlignY=50&fontAlignY=65&fontColor=3bb875"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=194160&text=Thanks%20for%20visiting!&fontAlign=50&animation=fadeIn&textBg=false&reversal=false&section=footer&fontSize=40&strokeWidth=0&descSize=20&descAlignY=50&fontAlignY=65&fontColor=42db89"/>
 </p>
