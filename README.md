@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey%20Everyone!&fontAlign=50&animation=fadeIn&textBg=false&reversal=false&section=header&desc=Welcome%20to%20my%20Github!&fontSize=70&strokeWidth=0&descSize=20&descAlignY=60&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey%20Everyone!&fontAlign=50&animation=fadeIn&textBg=false&reversal=false&section=header&desc=Welcome%20to%20my%20Github,%20let's%20connect!&fontSize=70&strokeWidth=0&descSize=20&descAlignY=60&fontAlignY=40" />
+  <
 </p>
 
 ### Hi there 👋
