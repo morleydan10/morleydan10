@@ -4,7 +4,7 @@
 
 <h1>Hello 👋</h1>
 
-I am a recent graduate of the Flatiron School's software development program, looking to continue my new journey on learning the ins and outs of software development. 
+👋 Hi there! I'm a recent graduate from the Flatiron School's software development program, eager to further my journey in the world of software development. Passionate about coding and continuously learning, I'm excited to collaborate on innovative projects and contribute to the tech community. Let's build something amazing together!
 
 [Click here for a quick intro!](https://www.loom.com/share/728f496d2b5949669a1cffe8bfd0d88d?sid=815b7e7d-abb2-4153-adb7-509b7c0be954)
 ### Let's Connect
