@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=154469&fontColor=42db89&text=Hey%20Everyone!&fontAlign=50&animation=fadeIn&textBg=false&reversal=false&section=header&desc=Welcome%20to%20my%20Github,%20let's%20connect!&fontSize=70&strokeWidth=0&descSize=20&descAlignY=60&fontAlignY=40" />
 </p>
 
-<h1>Hello 👋</h1>
+<h1>Hello! 👋</h1>
 
-👋 Hi there! I'm a recent graduate from the Flatiron School's software development program, eager to further my journey in the world of software development. Passionate about coding and continuously learning, I'm excited to collaborate on innovative projects and contribute to the tech community. Let's build something amazing together!
+Hi there! I'm a recent graduate from the Flatiron School's software development program, eager to further my journey in the world of software development. Passionate about coding and continuously learning, I'm excited to collaborate on innovative projects and contribute to the tech community. Let's build something amazing together!
 
 [Click here for a quick intro!](https://www.loom.com/share/728f496d2b5949669a1cffe8bfd0d88d?sid=815b7e7d-abb2-4153-adb7-509b7c0be954)
 ### Let's Connect
