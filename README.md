@@ -1,6 +1,6 @@
-
-![LinkedIn Banner](https://github.com/morleydan10/morleydan10/assets/146499405/8b65fad0-a433-473b-a610-c263adbe016e)
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=154469&fontColor=42db89&text=Hey%20Everyone!&fontAlign=50&animation=fadeIn&textBg=false&reversal=false&section=header&desc=Welcome%20to%20my%20Github,%20let's%20connect!&fontSize=70&strokeWidth=0&descSize=20&descAlignY=60&fontAlignY=40" />
+</p>
 
 <h1>Hello! 👋</h1>
 
