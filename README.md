@@ -38,7 +38,7 @@ Hi there! I'm a recent graduate from the Flatiron School's software development 
 </p>
 
 <a href="https://github.com/morleydan10/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=morleydan10&layout=pie&langs_count=8&card_width=320&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=morleydan10&layout=pie&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
 ### 🔭 I’m currently working on
