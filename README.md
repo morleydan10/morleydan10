@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=154469&fontColor=5cbbe0&text=Hey%20Everyone!&fontAlign=50&animation=fadeIn&textBg=false&reversal=false&section=header&desc=Welcome%20to%20my%20Github,%20let's%20connect!&fontSize=70&strokeWidth=0&descSize=20&descAlignY=60&fontAlignY=40" />
-</p>
 
 <h1>Hello! 👋</h1>
 
@@ -58,6 +55,3 @@ Hi there! I'm a recent graduate from the Flatiron School's software development 
 * Discovering new music
 * Exploring new places
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=194160&text=Thanks%20for%20visiting!&fontAlign=50&animation=fadeIn&textBg=false&reversal=false&section=footer&fontSize=40&strokeWidth=0&descSize=20&descAlignY=50&fontAlignY=65&fontColor=5cbbe0"/>
-</p>
