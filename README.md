@@ -42,9 +42,10 @@ Hi there! I'm a recent graduate from the Flatiron School's software development 
 </a>
 
 ### 🔭 I’m currently working on
-* Continuing to add features to my web application ArtConnect, a platform that connects local artists and local businesses
+* Developing a health application to help users identify symptoms and risks of TIAs and strokes
 * Brainstorming an idea for a new application that would asssit with the loading of freight trailers
 * Researching for a data science project involving precipitation in the Western United States
+* Continuing to add features to my web application ArtConnect, a platform that connects local artists and local businesses
 
 ### 🌱 I’m currently learning
 * New Languages: Java
