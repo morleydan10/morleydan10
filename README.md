@@ -50,8 +50,8 @@ Hi there! I'm a recent graduate from the Flatiron School's software development 
 * Courses I'm currently taking: Java & C# on Exercism, Microsoft Azure Fundamentals Certification
 
 ### 🏀🎧✒️ Interests and Hobbies
-* Staying active/playing sports
-* Reading and learning about new things, most notably philosophy, essays on social commentary and animal intelligence
+* Staying active, especially hiking and playing sports
+* Reading and learning about new things, most notably philosophy, essays on social commentary
 * Discovering new music
 * Exploring new places
 
